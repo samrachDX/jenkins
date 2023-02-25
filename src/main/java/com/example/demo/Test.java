@@ -8,6 +8,6 @@ public class Test {
     @RequestMapping("/")
     public String index() {
 
-        return "Happy Sad Morningss...";
+        return "Happy Sad Nah Morningss...";
     }
 }
